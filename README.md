@@ -5,3 +5,5 @@ https://github.com/Andy-CH-BO-AN/Python-work--selenium<br>
 https://github.com/Andy-CH-BO-AN/Python-work--Login-system<br>
 ### 股市預測專題 stock in the game
 https://github.com/Andy-CH-BO-AN/Stock-in-the-Game<br>
+### Python selenium Google-Translate
+https://github.com/Andy-CH-BO-AN/Python-work--Google-Translation<br>
